@@ -1,0 +1,299 @@
+[
+  {
+    "ContainingType": "CareProviderAPI.Controllers.AchievementController",
+    "Method": "Add",
+    "RelativePath": "api/Achievement",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "achievementDto",
+        "Type": "CareProviderAPI.Data.DTOs.AchievementDTOs.AchievementDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CareProviderAPI.Controllers.AchievementController",
+    "Method": "GetByProviderId",
+    "RelativePath": "api/Achievement/by-provider/{providerId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "providerId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[CareProviderAPI.Data.DTOs.AchievementDTOs.AchievementDto, CareProviderAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CareProviderAPI.Controllers.CareProviderController",
+    "Method": "GetAll",
+    "RelativePath": "api/CareProvider",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[CareProviderAPI.Data.DTOs.CareProviderDTOs.CareProviderDto, CareProviderAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CareProviderAPI.Controllers.CareProviderController",
+    "Method": "Add",
+    "RelativePath": "api/CareProvider",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "providerDto",
+        "Type": "CareProviderAPI.Data.DTOs.CareProviderDTOs.CreateCareProviderDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CareProviderAPI.Controllers.CareProviderController",
+    "Method": "GetById",
+    "RelativePath": "api/CareProvider/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CareProviderAPI.Data.DTOs.CareProviderDTOs.CareProviderDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CareProviderAPI.Controllers.CareProviderController",
+    "Method": "Update",
+    "RelativePath": "api/CareProvider/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "providerDto",
+        "Type": "CareProviderAPI.Data.DTOs.CareProviderDTOs.UpdateCareProviderDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CareProviderAPI.Controllers.CareProviderController",
+    "Method": "Delete",
+    "RelativePath": "api/CareProvider/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CareProviderAPI.Controllers.CareProviderController",
+    "Method": "GetByDepartment",
+    "RelativePath": "api/CareProvider/by-department/{departmentId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "departmentId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[CareProviderAPI.Data.DTOs.CareProviderDTOs.CareProviderDto, CareProviderAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CareProviderAPI.Controllers.CareProviderController",
+    "Method": "FilterByExperience",
+    "RelativePath": "api/CareProvider/filter-experience/{years}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "years",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[CareProviderAPI.Data.DTOs.CareProviderDTOs.CareProviderDto, CareProviderAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CareProviderAPI.Controllers.DepartmentController",
+    "Method": "GetAll",
+    "RelativePath": "api/Department",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[CareProviderAPI.Data.DTOs.DepartmentDTOs.DepartmentDto, CareProviderAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CareProviderAPI.Controllers.DepartmentController",
+    "Method": "Add",
+    "RelativePath": "api/Department",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "departmentDto",
+        "Type": "CareProviderAPI.Data.DTOs.DepartmentDTOs.DepartmentDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CareProviderAPI.Controllers.DepartmentController",
+    "Method": "GetById",
+    "RelativePath": "api/Department/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CareProviderAPI.Data.DTOs.DepartmentDTOs.DepartmentDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CareProviderAPI.Controllers.ExperienceController",
+    "Method": "Add",
+    "RelativePath": "api/Experience",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "experienceDto",
+        "Type": "CareProviderAPI.Data.DTOs.ExperienceDTOs.ExperienceDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CareProviderAPI.Controllers.ExperienceController",
+    "Method": "GetByProviderId",
+    "RelativePath": "api/Experience/by-provider/{providerId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "providerId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[CareProviderAPI.Data.DTOs.ExperienceDTOs.ExperienceDto, CareProviderAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

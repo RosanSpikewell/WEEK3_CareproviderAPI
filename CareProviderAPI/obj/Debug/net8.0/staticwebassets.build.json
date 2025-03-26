@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "IkGMlA7guiEmYJ9YZKnUDGON0WIzTcPcYbMBtJQ7eRA=",
+  "Source": "CareProviderAPI",
+  "BasePath": "_content/CareProviderAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
