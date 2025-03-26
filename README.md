@@ -12,6 +12,7 @@ To set up the project, install the following .NET packages:
  dotnet add package Microsoft.EntityFrameworkCore.SqlServer
  dotnet add package Microsoft.EntityFrameworkCore.Design
  dotnet add package Microsoft.EntityFrameworkCore.Tools
+ dotnet add package AutoMapper.Extensions.Microsoft.DependencyInjection
 ```
 
 ---
