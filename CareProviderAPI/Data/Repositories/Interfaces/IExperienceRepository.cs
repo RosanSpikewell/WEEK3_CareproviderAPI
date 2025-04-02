@@ -1,4 +1,5 @@
-﻿using CareProviderAPI.Data.Models;
+﻿
+using CareProviderAPI.Models;
 
 namespace CareProviderAPI.Data.Repositories.Interfaces
 {

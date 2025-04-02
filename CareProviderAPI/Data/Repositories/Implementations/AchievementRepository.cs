@@ -1,15 +1,15 @@
-﻿using CareProviderAPI.Data.Context;
-using CareProviderAPI.Data.Models;
+﻿
 using CareProviderAPI.Data.Repositories.Interfaces;
+using CareProviderAPI.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace CareProviderAPI.Data.Repositories.Implementations
 {
     public class AchievementRepository : IAchievementRepository
     {
-        private readonly CareproviderContext context;
+        private readonly CareProviderContext context;
 
-        public AchievementRepository(CareproviderContext context)
+        public AchievementRepository(CareProviderContext context)
         {
             this.context = context;
         }

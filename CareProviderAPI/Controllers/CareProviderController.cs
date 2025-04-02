@@ -1,6 +1,7 @@
 ﻿using CareProviderAPI.Data.DTOs.CareProviderDTOs;
 using CareProviderAPI.Services.Implementations;
 using CareProviderAPI.Services.Interfaces;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -8,6 +9,7 @@ namespace CareProviderAPI.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
     public class CareProviderController : ControllerBase
     {
         private readonly ICareProviderService careProviderService;

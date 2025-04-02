@@ -1,15 +1,15 @@
-﻿using CareProviderAPI.Data.Context;
-using CareProviderAPI.Data.Models;
+﻿
 using CareProviderAPI.Data.Repositories.Interfaces;
+using CareProviderAPI.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace CareProviderAPI.Data.Repositories.Implementations
 {
     public class ExperienceRepository : IExperienceRepository
     {
-        private readonly CareproviderContext context;
+        private readonly CareProviderContext context;
 
-        public ExperienceRepository(CareproviderContext context)
+        public ExperienceRepository(CareProviderContext context)
         {
             this.context = context;
         }

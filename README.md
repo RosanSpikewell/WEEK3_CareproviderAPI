@@ -12,6 +12,7 @@ To set up the project, install the following .NET packages:
  dotnet add package Microsoft.EntityFrameworkCore.SqlServer
  dotnet add package Microsoft.EntityFrameworkCore.Design
  dotnet add package Microsoft.EntityFrameworkCore.Tools
+ dotnet add package Microsoft.AspNetCore.Authentication.JwtBearer --version 8.0.5
 ```
 
 ---
@@ -21,7 +22,7 @@ To set up the project, install the following .NET packages:
 Use the following command to scaffold the database models:
 
 ```sh
-dotnet ef dbcontext scaffold "Server=SW0103002;Database=database_name;User Id=user_id;Password=password;TrustServerCertificate=True;" Microsoft.EntityFrameworkCore.SqlServer -o Models
+dotnet ef dbcontext scaffold "Server=server_name;Database=database_name;User Id=user_id;Password=password;TrustServerCertificate=True;" Microsoft.EntityFrameworkCore.SqlServer -o Models
 ```
 
 ---
@@ -74,6 +75,18 @@ CREATE TABLE Experiences (
     StartDate DATE NOT NULL,
     EndDate DATE NULL,  -- NULL means currently working
     CONSTRAINT FK_Experiences_CareProvider FOREIGN KEY (CareProviderID) REFERENCES CareProviders(ID) ON DELETE CASCADE
+);
+```
+
+###  Users Table
+
+```sql
+CREATE TABLE users (
+    id INT IDENTITY(1,1) PRIMARY KEY,
+    name NVARCHAR(100) NOT NULL,
+    email NVARCHAR(255) UNIQUE NOT NULL,
+    password_hash NVARCHAR(255) NOT NULL,
+    created_at DATETIME DEFAULT GETDATE()
 );
 ```
 

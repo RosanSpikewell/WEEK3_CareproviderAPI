@@ -1,4 +1,4 @@
-@CareProviderAPI_HostAddress = http://localhost:5015
+@CareProviderAPI_HostAddress = http://localhost:5064
 
 GET {{CareProviderAPI_HostAddress}}/weatherforecast/
 Accept: application/json

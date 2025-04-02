@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\CareProviderAPI\\CareProviderAPI.csproj": {}
+    "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\CareProviderAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\CareProviderAPI\\CareProviderAPI.csproj": {
+    "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\CareProviderAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\CareProviderAPI\\CareProviderAPI.csproj",
+        "projectUniqueName": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\CareProviderAPI.csproj",
         "projectName": "CareProviderAPI",
-        "projectPath": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\CareProviderAPI\\CareProviderAPI.csproj",
+        "projectPath": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\CareProviderAPI.csproj",
         "packagesPath": "C:\\Users\\RosanSpikewell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\CareProviderAPI\\obj\\",
+        "outputPath": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -50,9 +50,9 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "AutoMapper": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
-              "version": "[14.0.0, )"
+              "version": "[12.0.1, )"
             },
             "MicroSoft.EntityFrameworkCore": {
               "target": "Package",
@@ -73,6 +73,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[9.0.3, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.5, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

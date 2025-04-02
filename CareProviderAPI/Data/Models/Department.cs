@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace CareProviderAPI.Data.Models;
+namespace CareProviderAPI.Models;
 
 public partial class Department
 {

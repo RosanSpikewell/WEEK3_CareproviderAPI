@@ -1,17 +1,16 @@
 ﻿using System;
 using System.Collections.Generic;
-using CareProviderAPI.Data.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace CareProviderAPI.Data.Context;
+namespace CareProviderAPI.Models;
 
-public partial class CareproviderContext : DbContext
+public partial class CareProviderContext : DbContext
 {
-    public CareproviderContext()
+    public CareProviderContext()
     {
     }
 
-    public CareproviderContext(DbContextOptions<CareproviderContext> options)
+    public CareProviderContext(DbContextOptions<CareProviderContext> options)
         : base(options)
     {
     }
@@ -23,6 +22,8 @@ public partial class CareproviderContext : DbContext
     public virtual DbSet<Department> Departments { get; set; }
 
     public virtual DbSet<Experience> Experiences { get; set; }
+
+    public virtual DbSet<User> Users { get; set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
@@ -42,7 +43,7 @@ public partial class CareproviderContext : DbContext
     {
         modelBuilder.Entity<Achievement>(entity =>
         {
-            entity.HasKey(e => e.Id).HasName("PK__Achievem__3214EC271288508C");
+            entity.HasKey(e => e.Id).HasName("PK__Achievem__3214EC2751B6F33C");
 
             entity.Property(e => e.Id).HasColumnName("ID");
             entity.Property(e => e.CareProviderId).HasColumnName("CareProviderID");
@@ -54,7 +55,7 @@ public partial class CareproviderContext : DbContext
 
         modelBuilder.Entity<CareProvider>(entity =>
         {
-            entity.HasKey(e => e.Id).HasName("PK__CareProv__3214EC27E304A430");
+            entity.HasKey(e => e.Id).HasName("PK__CareProv__3214EC2709FE339E");
 
             entity.Property(e => e.Id)
                 .HasDefaultValueSql("(newid())")
@@ -71,7 +72,7 @@ public partial class CareproviderContext : DbContext
 
         modelBuilder.Entity<Department>(entity =>
         {
-            entity.HasKey(e => e.Id).HasName("PK__Departme__3214EC2765FD37C3");
+            entity.HasKey(e => e.Id).HasName("PK__Departme__3214EC27FD40529E");
 
             entity.Property(e => e.Id).HasColumnName("ID");
             entity.Property(e => e.Name).HasMaxLength(255);
@@ -79,7 +80,7 @@ public partial class CareproviderContext : DbContext
 
         modelBuilder.Entity<Experience>(entity =>
         {
-            entity.HasKey(e => e.Id).HasName("PK__Experien__3214EC27B12FD7E8");
+            entity.HasKey(e => e.Id).HasName("PK__Experien__3214EC27DB595CC6");
 
             entity.Property(e => e.Id).HasColumnName("ID");
             entity.Property(e => e.CareProviderId).HasColumnName("CareProviderID");
@@ -89,6 +90,30 @@ public partial class CareproviderContext : DbContext
             entity.HasOne(d => d.CareProvider).WithMany(p => p.Experiences)
                 .HasForeignKey(d => d.CareProviderId)
                 .HasConstraintName("FK_Experiences_CareProvider");
+        });
+
+        modelBuilder.Entity<User>(entity =>
+        {
+            entity.HasKey(e => e.Id).HasName("PK__users__3213E83FA6E4CBDC");
+
+            entity.ToTable("users");
+
+            entity.HasIndex(e => e.Email, "UQ__users__AB6E61648CA5639F").IsUnique();
+
+            entity.Property(e => e.Id).HasColumnName("id");
+            entity.Property(e => e.CreatedAt)
+                .HasDefaultValueSql("(getdate())")
+                .HasColumnType("datetime")
+                .HasColumnName("created_at");
+            entity.Property(e => e.Email)
+                .HasMaxLength(255)
+                .HasColumnName("email");
+            entity.Property(e => e.Name)
+                .HasMaxLength(100)
+                .HasColumnName("name");
+            entity.Property(e => e.PasswordHash)
+                .HasMaxLength(255)
+                .HasColumnName("password_hash");
         });
 
         OnModelCreatingPartial(modelBuilder);

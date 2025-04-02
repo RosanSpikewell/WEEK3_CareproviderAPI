@@ -1,7 +1,7 @@
 ﻿using CareProviderAPI.Data.DTOs.DepartmentDTOs;
-using CareProviderAPI.Data.Models;
 using CareProviderAPI.Services.Implementations;
 using CareProviderAPI.Services.Interfaces;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -9,6 +9,8 @@ namespace CareProviderAPI.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
+
     public class DepartmentController : ControllerBase
     {
         private readonly IDepartmentService departmentService;

@@ -1,5 +1,5 @@
 ﻿using CareProviderAPI.Data.DTOs.CareProviderDTOs;
-using CareProviderAPI.Data.Models;
+using CareProviderAPI.Models;
 
 namespace CareProviderAPI.Services.Interfaces
 {

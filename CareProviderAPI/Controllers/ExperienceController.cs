@@ -2,6 +2,7 @@
 using CareProviderAPI.Data.DTOs.ExperienceDTOs;
 using CareProviderAPI.Services.Implementations;
 using CareProviderAPI.Services.Interfaces;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -9,6 +10,7 @@ namespace CareProviderAPI.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
     public class ExperienceController : ControllerBase
     {
         private readonly IExperienceService experienceService;

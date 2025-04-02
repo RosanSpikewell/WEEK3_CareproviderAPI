@@ -1,15 +1,14 @@
-﻿using CareProviderAPI.Data.Context;
-using CareProviderAPI.Data.Models;
-using CareProviderAPI.Data.Repositories.Interfaces;
+﻿using CareProviderAPI.Data.Repositories.Interfaces;
+using CareProviderAPI.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace CareProviderAPI.Data.Repositories.Implementations
 {
     public class DepartmentRepository : IDepartmentRepository
     {
-        private readonly CareproviderContext context;
+        private readonly CareProviderContext context;
 
-        public DepartmentRepository(CareproviderContext context)
+        public DepartmentRepository(CareProviderContext context)
         {
             this.context = context;
         }

@@ -1,8 +1,8 @@
 ﻿using AutoMapper;
 using CareProviderAPI.Data.DTOs.DepartmentDTOs;
-using CareProviderAPI.Data.Models;
 using CareProviderAPI.Data.Repositories.Implementations;
 using CareProviderAPI.Data.Repositories.Interfaces;
+using CareProviderAPI.Models;
 using CareProviderAPI.Services.Interfaces;
 
 namespace CareProviderAPI.Services.Implementations
