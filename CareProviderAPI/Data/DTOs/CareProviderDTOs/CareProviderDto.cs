@@ -1,5 +1,6 @@
 ﻿using CareProviderAPI.Data.DTOs.AchievementDTOs;
 using CareProviderAPI.Data.DTOs.ExperienceDTOs;
+using System.ComponentModel.DataAnnotations;
 
 namespace CareProviderAPI.Data.DTOs.CareProviderDTOs
 {
@@ -12,6 +13,7 @@ namespace CareProviderAPI.Data.DTOs.CareProviderDTOs
         public string? ContactInfo { get; set; }
 
         public int DepartmentId { get; set; }
+
         public bool? IsActive { get; set; }
 
         public int? YearsOfExperience { get; set; }

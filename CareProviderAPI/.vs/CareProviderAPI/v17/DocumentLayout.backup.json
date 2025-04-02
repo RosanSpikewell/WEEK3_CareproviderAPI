@@ -3,20 +3,152 @@
   "WorkspaceRootPath": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|c:\\users\\rosanspikewell\\desktop\\rosan\\.net\\rest api\\week3_careproviderapi\\careproviderapi\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|solutionrelative:mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|c:\\users\\rosanspikewell\\desktop\\rosan\\.net\\rest api\\week3_careproviderapi\\careproviderapi\\data\\dtos\\userdto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|solutionrelative:data\\dtos\\userdto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|c:\\users\\rosanspikewell\\desktop\\rosan\\.net\\rest api\\week3_careproviderapi\\careproviderapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|c:\\users\\rosanspikewell\\desktop\\rosan\\.net\\rest api\\week3_careproviderapi\\careproviderapi\\data\\dtos\\experiencedtos\\experiencedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|solutionrelative:data\\dtos\\experiencedtos\\experiencedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|c:\\users\\rosanspikewell\\desktop\\rosan\\.net\\rest api\\week3_careproviderapi\\careproviderapi\\data\\context\\careprovidercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|solutionrelative:data\\context\\careprovidercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|c:\\users\\rosanspikewell\\desktop\\rosan\\.net\\rest api\\week3_careproviderapi\\careproviderapi\\data\\dtos\\careproviderdtos\\createcareproviderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|solutionrelative:data\\dtos\\careproviderdtos\\createcareproviderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|c:\\users\\rosanspikewell\\desktop\\rosan\\.net\\rest api\\week3_careproviderapi\\careproviderapi\\data\\dtos\\careproviderdtos\\careproviderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|solutionrelative:data\\dtos\\careproviderdtos\\careproviderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|c:\\users\\rosanspikewell\\desktop\\rosan\\.net\\rest api\\week3_careproviderapi\\careproviderapi\\data\\dtos\\userdto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|solutionrelative:data\\dtos\\userdto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|c:\\users\\rosanspikewell\\desktop\\rosan\\.net\\rest api\\week3_careproviderapi\\careproviderapi\\data\\dtos\\departmentdtos\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|solutionrelative:data\\dtos\\departmentdtos\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|c:\\users\\rosanspikewell\\desktop\\rosan\\.net\\rest api\\week3_careproviderapi\\careproviderapi\\data\\dtos\\careproviderdtos\\updatecareproviderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|solutionrelative:data\\dtos\\careproviderdtos\\updatecareproviderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|c:\\users\\rosanspikewell\\desktop\\rosan\\.net\\rest api\\week3_careproviderapi\\careproviderapi\\data\\dtos\\achievementdtos\\achievementdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|solutionrelative:data\\dtos\\achievementdtos\\achievementdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|c:\\users\\rosanspikewell\\desktop\\rosan\\.net\\rest api\\week3_careproviderapi\\careproviderapi\\data\\dtos\\userdto\\loginresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|solutionrelative:data\\dtos\\userdto\\loginresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|c:\\users\\rosanspikewell\\desktop\\rosan\\.net\\rest api\\week3_careproviderapi\\careproviderapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|c:\\users\\rosanspikewell\\desktop\\rosan\\.net\\rest api\\week3_careproviderapi\\careproviderapi\\services\\interfaces\\iexperienceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|solutionrelative:services\\interfaces\\iexperienceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|c:\\users\\rosanspikewell\\desktop\\rosan\\.net\\rest api\\week3_careproviderapi\\careproviderapi\\services\\interfaces\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|solutionrelative:services\\interfaces\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|c:\\users\\rosanspikewell\\desktop\\rosan\\.net\\rest api\\week3_careproviderapi\\careproviderapi\\services\\interfaces\\icareproviderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|solutionrelative:services\\interfaces\\icareproviderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|c:\\users\\rosanspikewell\\desktop\\rosan\\.net\\rest api\\week3_careproviderapi\\careproviderapi\\services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|solutionrelative:services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|c:\\users\\rosanspikewell\\desktop\\rosan\\.net\\rest api\\week3_careproviderapi\\careproviderapi\\services\\interfaces\\iachievementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|solutionrelative:services\\interfaces\\iachievementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|c:\\users\\rosanspikewell\\desktop\\rosan\\.net\\rest api\\week3_careproviderapi\\careproviderapi\\services\\implementations\\experienceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|solutionrelative:services\\implementations\\experienceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|c:\\users\\rosanspikewell\\desktop\\rosan\\.net\\rest api\\week3_careproviderapi\\careproviderapi\\services\\implementations\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|solutionrelative:services\\implementations\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|c:\\users\\rosanspikewell\\desktop\\rosan\\.net\\rest api\\week3_careproviderapi\\careproviderapi\\services\\implementations\\careproviderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|solutionrelative:services\\implementations\\careproviderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|c:\\users\\rosanspikewell\\desktop\\rosan\\.net\\rest api\\week3_careproviderapi\\careproviderapi\\services\\implementations\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|solutionrelative:services\\implementations\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|c:\\users\\rosanspikewell\\desktop\\rosan\\.net\\rest api\\week3_careproviderapi\\careproviderapi\\data\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|solutionrelative:data\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|c:\\users\\rosanspikewell\\desktop\\rosan\\.net\\rest api\\week3_careproviderapi\\careproviderapi\\data\\repositories\\implementations\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|solutionrelative:data\\repositories\\implementations\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|c:\\users\\rosanspikewell\\desktop\\rosan\\.net\\rest api\\week3_careproviderapi\\careproviderapi\\data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|solutionrelative:data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|c:\\users\\rosanspikewell\\desktop\\rosan\\.net\\rest api\\week3_careproviderapi\\careproviderapi\\data\\models\\experience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|solutionrelative:data\\models\\experience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|c:\\users\\rosanspikewell\\desktop\\rosan\\.net\\rest api\\week3_careproviderapi\\careproviderapi\\data\\models\\achievement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|solutionrelative:data\\models\\achievement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|c:\\users\\rosanspikewell\\desktop\\rosan\\.net\\rest api\\week3_careproviderapi\\careproviderapi\\data\\models\\careprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|solutionrelative:data\\models\\careprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|c:\\users\\rosanspikewell\\desktop\\rosan\\.net\\rest api\\week3_careproviderapi\\careproviderapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|c:\\users\\rosanspikewell\\desktop\\rosan\\.net\\rest api\\week3_careproviderapi\\careproviderapi\\data\\repositories\\implementations\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|solutionrelative:data\\repositories\\implementations\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|c:\\users\\rosanspikewell\\desktop\\rosan\\.net\\rest api\\week3_careproviderapi\\careproviderapi\\services\\implementations\\achievementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|solutionrelative:services\\implementations\\achievementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|c:\\users\\rosanspikewell\\desktop\\rosan\\.net\\rest api\\week3_careproviderapi\\careproviderapi\\data\\repositories\\implementations\\careproviderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|solutionrelative:data\\repositories\\implementations\\careproviderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|c:\\users\\rosanspikewell\\desktop\\rosan\\.net\\rest api\\week3_careproviderapi\\careproviderapi\\data\\repositories\\interfaces\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|solutionrelative:data\\repositories\\interfaces\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|c:\\users\\rosanspikewell\\desktop\\rosan\\.net\\rest api\\week3_careproviderapi\\careproviderapi\\data\\repositories\\interfaces\\iexperiencerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|solutionrelative:data\\repositories\\interfaces\\iexperiencerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|c:\\users\\rosanspikewell\\desktop\\rosan\\.net\\rest api\\week3_careproviderapi\\careproviderapi\\data\\repositories\\interfaces\\iachievementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|solutionrelative:data\\repositories\\interfaces\\iachievementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|c:\\users\\rosanspikewell\\desktop\\rosan\\.net\\rest api\\week3_careproviderapi\\careproviderapi\\data\\repositories\\implementations\\experiencerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|solutionrelative:data\\repositories\\implementations\\experiencerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|c:\\users\\rosanspikewell\\desktop\\rosan\\.net\\rest api\\week3_careproviderapi\\careproviderapi\\data\\repositories\\implementations\\achievementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|solutionrelative:data\\repositories\\implementations\\achievementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|c:\\users\\rosanspikewell\\desktop\\rosan\\.net\\rest api\\week3_careproviderapi\\careproviderapi\\data\\repositories\\interfaces\\icareproviderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|solutionrelative:data\\repositories\\interfaces\\icareproviderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|c:\\users\\rosanspikewell\\desktop\\rosan\\.net\\rest api\\week3_careproviderapi\\careproviderapi\\data\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|solutionrelative:data\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|c:\\users\\rosanspikewell\\desktop\\rosan\\.net\\rest api\\week3_careproviderapi\\careproviderapi\\data\\context\\careprovidercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|solutionrelative:data\\context\\careprovidercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|c:\\users\\rosanspikewell\\desktop\\rosan\\.net\\rest api\\week3_careproviderapi\\careproviderapi\\controllers\\experiencecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,148 +167,16 @@
       "RelativeMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|solutionrelative:controllers\\achievementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|c:\\users\\rosanspikewell\\desktop\\rosan\\.net\\rest api\\week3_careproviderapi\\careproviderapi\\services\\implementations\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|solutionrelative:services\\implementations\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|c:\\users\\rosanspikewell\\desktop\\rosan\\.net\\rest api\\week3_careproviderapi\\careproviderapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|c:\\users\\rosanspikewell\\desktop\\rosan\\.net\\rest api\\week3_careproviderapi\\careproviderapi\\data\\repositories\\implementations\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|solutionrelative:data\\repositories\\implementations\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|c:\\users\\rosanspikewell\\desktop\\rosan\\.net\\rest api\\week3_careproviderapi\\careproviderapi\\data\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|solutionrelative:data\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|c:\\users\\rosanspikewell\\desktop\\rosan\\.net\\rest api\\week3_careproviderapi\\careproviderapi\\data\\dtos\\userdto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|solutionrelative:data\\dtos\\userdto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|c:\\users\\rosanspikewell\\desktop\\rosan\\.net\\rest api\\week3_careproviderapi\\careproviderapi\\data\\dtos\\userdto\\loginresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|solutionrelative:data\\dtos\\userdto\\loginresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|c:\\users\\rosanspikewell\\desktop\\rosan\\.net\\rest api\\week3_careproviderapi\\careproviderapi\\data\\dtos\\userdto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|solutionrelative:data\\dtos\\userdto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|c:\\users\\rosanspikewell\\desktop\\rosan\\.net\\rest api\\week3_careproviderapi\\careproviderapi\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|solutionrelative:mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|c:\\users\\rosanspikewell\\desktop\\rosan\\.net\\rest api\\week3_careproviderapi\\careproviderapi\\careproviderapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|solutionrelative:careproviderapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|c:\\users\\rosanspikewell\\desktop\\rosan\\.net\\rest api\\week3_careproviderapi\\careproviderapi\\services\\implementations\\experienceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|solutionrelative:services\\implementations\\experienceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|c:\\users\\rosanspikewell\\desktop\\rosan\\.net\\rest api\\week3_careproviderapi\\careproviderapi\\services\\interfaces\\iexperienceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|solutionrelative:services\\interfaces\\iexperienceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|c:\\users\\rosanspikewell\\desktop\\rosan\\.net\\rest api\\week3_careproviderapi\\careproviderapi\\services\\implementations\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|solutionrelative:services\\implementations\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|c:\\users\\rosanspikewell\\desktop\\rosan\\.net\\rest api\\week3_careproviderapi\\careproviderapi\\services\\interfaces\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|solutionrelative:services\\interfaces\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|c:\\users\\rosanspikewell\\desktop\\rosan\\.net\\rest api\\week3_careproviderapi\\careproviderapi\\services\\implementations\\careproviderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|solutionrelative:services\\implementations\\careproviderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|c:\\users\\rosanspikewell\\desktop\\rosan\\.net\\rest api\\week3_careproviderapi\\careproviderapi\\services\\interfaces\\icareproviderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|solutionrelative:services\\interfaces\\icareproviderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|c:\\users\\rosanspikewell\\desktop\\rosan\\.net\\rest api\\week3_careproviderapi\\careproviderapi\\services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|solutionrelative:services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|c:\\users\\rosanspikewell\\desktop\\rosan\\.net\\rest api\\week3_careproviderapi\\careproviderapi\\data\\repositories\\implementations\\experiencerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|solutionrelative:data\\repositories\\implementations\\experiencerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|c:\\users\\rosanspikewell\\desktop\\rosan\\.net\\rest api\\week3_careproviderapi\\careproviderapi\\data\\repositories\\interfaces\\iexperiencerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|solutionrelative:data\\repositories\\interfaces\\iexperiencerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|c:\\users\\rosanspikewell\\desktop\\rosan\\.net\\rest api\\week3_careproviderapi\\careproviderapi\\data\\repositories\\implementations\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|solutionrelative:data\\repositories\\implementations\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|c:\\users\\rosanspikewell\\desktop\\rosan\\.net\\rest api\\week3_careproviderapi\\careproviderapi\\data\\repositories\\interfaces\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|solutionrelative:data\\repositories\\interfaces\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|c:\\users\\rosanspikewell\\desktop\\rosan\\.net\\rest api\\week3_careproviderapi\\careproviderapi\\data\\repositories\\implementations\\careproviderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|solutionrelative:data\\repositories\\implementations\\careproviderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|c:\\users\\rosanspikewell\\desktop\\rosan\\.net\\rest api\\week3_careproviderapi\\careproviderapi\\data\\repositories\\implementations\\achievementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|solutionrelative:data\\repositories\\implementations\\achievementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|c:\\users\\rosanspikewell\\desktop\\rosan\\.net\\rest api\\week3_careproviderapi\\careproviderapi\\data\\repositories\\interfaces\\icareproviderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|solutionrelative:data\\repositories\\interfaces\\icareproviderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|c:\\users\\rosanspikewell\\desktop\\rosan\\.net\\rest api\\week3_careproviderapi\\careproviderapi\\data\\repositories\\interfaces\\iachievementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|solutionrelative:data\\repositories\\interfaces\\iachievementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|c:\\users\\rosanspikewell\\desktop\\rosan\\.net\\rest api\\week3_careproviderapi\\careproviderapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|c:\\users\\rosanspikewell\\desktop\\rosan\\.net\\rest api\\week3_careproviderapi\\careproviderapi\\services\\implementations\\achievementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|solutionrelative:services\\implementations\\achievementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|c:\\users\\rosanspikewell\\desktop\\rosan\\.net\\rest api\\week3_careproviderapi\\careproviderapi\\data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|solutionrelative:data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|c:\\users\\rosanspikewell\\desktop\\rosan\\.net\\rest api\\week3_careproviderapi\\careproviderapi\\data\\dtos\\experiencedtos\\experiencedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|solutionrelative:data\\dtos\\experiencedtos\\experiencedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|c:\\users\\rosanspikewell\\desktop\\rosan\\.net\\rest api\\week3_careproviderapi\\careproviderapi\\data\\models\\experience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|solutionrelative:data\\models\\experience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|c:\\users\\rosanspikewell\\desktop\\rosan\\.net\\rest api\\week3_careproviderapi\\careproviderapi\\services\\interfaces\\iachievementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|solutionrelative:services\\interfaces\\iachievementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|c:\\users\\rosanspikewell\\desktop\\rosan\\.net\\rest api\\week3_careproviderapi\\careproviderapi\\data\\dtos\\achievementdtos\\achievementdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|solutionrelative:data\\dtos\\achievementdtos\\achievementdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|c:\\users\\rosanspikewell\\desktop\\rosan\\.net\\rest api\\week3_careproviderapi\\careproviderapi\\data\\models\\achievement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|solutionrelative:data\\models\\achievement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|c:\\users\\rosanspikewell\\desktop\\rosan\\.net\\rest api\\week3_careproviderapi\\careproviderapi\\data\\dtos\\careproviderdtos\\createcareproviderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|solutionrelative:data\\dtos\\careproviderdtos\\createcareproviderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|c:\\users\\rosanspikewell\\desktop\\rosan\\.net\\rest api\\week3_careproviderapi\\careproviderapi\\data\\dtos\\careproviderdtos\\careproviderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|solutionrelative:data\\dtos\\careproviderdtos\\careproviderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|c:\\users\\rosanspikewell\\desktop\\rosan\\.net\\rest api\\week3_careproviderapi\\careproviderapi\\data\\dtos\\careproviderdtos\\updatecareproviderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|solutionrelative:data\\dtos\\careproviderdtos\\updatecareproviderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|c:\\users\\rosanspikewell\\desktop\\rosan\\.net\\rest api\\week3_careproviderapi\\careproviderapi\\data\\dtos\\departmentdtos\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|solutionrelative:data\\dtos\\departmentdtos\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|c:\\users\\rosanspikewell\\desktop\\rosan\\.net\\rest api\\week3_careproviderapi\\careproviderapi\\data\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|solutionrelative:data\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|c:\\users\\rosanspikewell\\desktop\\rosan\\.net\\rest api\\week3_careproviderapi\\careproviderapi\\data\\models\\careprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C1EDA3B-EAB7-427E-98AD-3111DA105C41}|CareProviderAPI.csproj|solutionrelative:data\\models\\careprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -190,55 +190,98 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DepartmentController.cs",
-              "DocumentMoniker": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Controllers\\DepartmentController.cs",
-              "RelativeDocumentMoniker": "Controllers\\DepartmentController.cs",
-              "ToolTip": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Controllers\\DepartmentController.cs",
-              "RelativeToolTip": "Controllers\\DepartmentController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "AchievementDto.cs",
+              "DocumentMoniker": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\DTOs\\AchievementDTOs\\AchievementDto.cs",
+              "RelativeDocumentMoniker": "Data\\DTOs\\AchievementDTOs\\AchievementDto.cs",
+              "ToolTip": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\DTOs\\AchievementDTOs\\AchievementDto.cs",
+              "RelativeToolTip": "Data\\DTOs\\AchievementDTOs\\AchievementDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T16:37:07.708Z"
+              "WhenOpened": "2025-03-23T13:02:36.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CareProviderDto.cs",
+              "DocumentMoniker": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\DTOs\\CareProviderDTOs\\CareProviderDto.cs",
+              "RelativeDocumentMoniker": "Data\\DTOs\\CareProviderDTOs\\CareProviderDto.cs",
+              "ToolTip": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\DTOs\\CareProviderDTOs\\CareProviderDto.cs",
+              "RelativeToolTip": "Data\\DTOs\\CareProviderDTOs\\CareProviderDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T15:14:59.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateCareProviderDto.cs",
+              "DocumentMoniker": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\DTOs\\CareProviderDTOs\\CreateCareProviderDto.cs",
+              "RelativeDocumentMoniker": "Data\\DTOs\\CareProviderDTOs\\CreateCareProviderDto.cs",
+              "ToolTip": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\DTOs\\CareProviderDTOs\\CreateCareProviderDto.cs",
+              "RelativeToolTip": "Data\\DTOs\\CareProviderDTOs\\CreateCareProviderDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T12:57:16.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateCareProviderDto.cs",
+              "DocumentMoniker": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\DTOs\\CareProviderDTOs\\UpdateCareProviderDto.cs",
+              "RelativeDocumentMoniker": "Data\\DTOs\\CareProviderDTOs\\UpdateCareProviderDto.cs",
+              "ToolTip": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\DTOs\\CareProviderDTOs\\UpdateCareProviderDto.cs",
+              "RelativeToolTip": "Data\\DTOs\\CareProviderDTOs\\UpdateCareProviderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T12:59:57.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DepartmentDto.cs",
+              "DocumentMoniker": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\DTOs\\DepartmentDTOs\\DepartmentDto.cs",
+              "RelativeDocumentMoniker": "Data\\DTOs\\DepartmentDTOs\\DepartmentDto.cs",
+              "ToolTip": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\DTOs\\DepartmentDTOs\\DepartmentDto.cs",
+              "RelativeToolTip": "Data\\DTOs\\DepartmentDTOs\\DepartmentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T13:01:42.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExperienceDto.cs",
+              "DocumentMoniker": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\DTOs\\ExperienceDTOs\\ExperienceDto.cs",
+              "RelativeDocumentMoniker": "Data\\DTOs\\ExperienceDTOs\\ExperienceDto.cs",
+              "ToolTip": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\DTOs\\ExperienceDTOs\\ExperienceDto.cs",
+              "RelativeToolTip": "Data\\DTOs\\ExperienceDTOs\\ExperienceDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T13:03:55.965Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ExperienceController.cs",
-              "DocumentMoniker": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Controllers\\ExperienceController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ExperienceController.cs",
-              "ToolTip": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Controllers\\ExperienceController.cs",
-              "RelativeToolTip": "Controllers\\ExperienceController.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAwwAoAAAAfAAAAAAAAAA==",
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\DTOs\\UserDTO\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "Data\\DTOs\\UserDTO\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\DTOs\\UserDTO\\LoginDTO.cs",
+              "RelativeToolTip": "Data\\DTOs\\UserDTO\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T18:43:48.267Z"
+              "WhenOpened": "2025-04-01T09:57:29.743Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\Repositories\\Interfaces\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "Data\\Repositories\\Interfaces\\IUserRepository.cs",
-              "ToolTip": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\Repositories\\Interfaces\\IUserRepository.cs",
-              "RelativeToolTip": "Data\\Repositories\\Interfaces\\IUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T10:00:38.041Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "RegisterDTO.cs",
-              "DocumentMoniker": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\DTOs\\UserDTO\\RegisterDTO.cs",
-              "RelativeDocumentMoniker": "Data\\DTOs\\UserDTO\\RegisterDTO.cs",
-              "ToolTip": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\DTOs\\UserDTO\\RegisterDTO.cs",
-              "RelativeToolTip": "Data\\DTOs\\UserDTO\\RegisterDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T09:56:32.322Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 8,
               "Title": "LoginResponseModel.cs",
               "DocumentMoniker": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\DTOs\\UserDTO\\LoginResponseModel.cs",
               "RelativeDocumentMoniker": "Data\\DTOs\\UserDTO\\LoginResponseModel.cs",
@@ -246,206 +289,74 @@
               "RelativeToolTip": "Data\\DTOs\\UserDTO\\LoginResponseModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T10:24:38.733Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CareproviderContext.cs",
-              "DocumentMoniker": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\Context\\CareproviderContext.cs",
-              "RelativeDocumentMoniker": "Data\\Context\\CareproviderContext.cs",
-              "ToolTip": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\Context\\CareproviderContext.cs",
-              "RelativeToolTip": "Data\\Context\\CareproviderContext.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAAwCgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T12:35:46.946Z",
+              "WhenOpened": "2025-04-01T10:24:38.733Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAABgAAAA4AAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\DTOs\\UserDTO\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "Data\\DTOs\\UserDTO\\RegisterDTO.cs",
+              "ToolTip": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\DTOs\\UserDTO\\RegisterDTO.cs",
+              "RelativeToolTip": "Data\\DTOs\\UserDTO\\RegisterDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T12:37:10.627Z",
+              "WhenOpened": "2025-04-01T09:56:32.322Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-01T08:56:04.24Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MappingProfile.cs",
-              "DocumentMoniker": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\MappingProfile.cs",
-              "RelativeDocumentMoniker": "MappingProfile.cs",
-              "ToolTip": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\MappingProfile.cs",
-              "RelativeToolTip": "MappingProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T16:17:40.296Z",
+              "WhenOpened": "2025-04-01T08:56:04.24Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CareProviderController.cs",
-              "DocumentMoniker": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Controllers\\CareProviderController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CareProviderController.cs",
-              "ToolTip": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Controllers\\CareProviderController.cs",
-              "RelativeToolTip": "Controllers\\CareProviderController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T15:56:15.66Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AchievementController.cs",
-              "DocumentMoniker": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Controllers\\AchievementController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AchievementController.cs",
-              "ToolTip": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Controllers\\AchievementController.cs",
-              "RelativeToolTip": "Controllers\\AchievementController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T18:17:37.808Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AuthService.cs",
-              "DocumentMoniker": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Services\\Implementations\\AuthService.cs",
-              "RelativeDocumentMoniker": "Services\\Implementations\\AuthService.cs",
-              "ToolTip": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Services\\Implementations\\AuthService.cs",
-              "RelativeToolTip": "Services\\Implementations\\AuthService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T10:07:56.129Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\Repositories\\Implementations\\UserRepository.cs",
-              "RelativeDocumentMoniker": "Data\\Repositories\\Implementations\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\Repositories\\Implementations\\UserRepository.cs",
-              "RelativeToolTip": "Data\\Repositories\\Implementations\\UserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T10:00:09.071Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "LoginDTO.cs",
-              "DocumentMoniker": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\DTOs\\UserDTO\\LoginDTO.cs",
-              "RelativeDocumentMoniker": "Data\\DTOs\\UserDTO\\LoginDTO.cs",
-              "ToolTip": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\DTOs\\UserDTO\\LoginDTO.cs",
-              "RelativeToolTip": "Data\\DTOs\\UserDTO\\LoginDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T09:57:29.743Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ExperienceService.cs",
-              "DocumentMoniker": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Services\\Implementations\\ExperienceService.cs",
-              "RelativeDocumentMoniker": "Services\\Implementations\\ExperienceService.cs",
-              "ToolTip": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Services\\Implementations\\ExperienceService.cs",
-              "RelativeToolTip": "Services\\Implementations\\ExperienceService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T15:48:14.001Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 10,
               "Title": "IExperienceService.cs",
               "DocumentMoniker": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Services\\Interfaces\\IExperienceService.cs",
               "RelativeDocumentMoniker": "Services\\Interfaces\\IExperienceService.cs",
               "ToolTip": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Services\\Interfaces\\IExperienceService.cs",
               "RelativeToolTip": "Services\\Interfaces\\IExperienceService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-23T15:47:46.656Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 11,
               "Title": "IDepartmentService.cs",
               "DocumentMoniker": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Services\\Interfaces\\IDepartmentService.cs",
               "RelativeDocumentMoniker": "Services\\Interfaces\\IDepartmentService.cs",
               "ToolTip": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Services\\Interfaces\\IDepartmentService.cs",
               "RelativeToolTip": "Services\\Interfaces\\IDepartmentService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAiwAEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-23T15:38:04.864Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "DepartmentService.cs",
-              "DocumentMoniker": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Services\\Implementations\\DepartmentService.cs",
-              "RelativeDocumentMoniker": "Services\\Implementations\\DepartmentService.cs",
-              "ToolTip": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Services\\Implementations\\DepartmentService.cs",
-              "RelativeToolTip": "Services\\Implementations\\DepartmentService.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAgwAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T15:38:39.107Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "CareProviderService.cs",
-              "DocumentMoniker": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Services\\Implementations\\CareProviderService.cs",
-              "RelativeDocumentMoniker": "Services\\Implementations\\CareProviderService.cs",
-              "ToolTip": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Services\\Implementations\\CareProviderService.cs",
-              "RelativeToolTip": "Services\\Implementations\\CareProviderService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T15:25:43.432Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 12,
               "Title": "ICareProviderService.cs",
               "DocumentMoniker": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Services\\Interfaces\\ICareProviderService.cs",
               "RelativeDocumentMoniker": "Services\\Interfaces\\ICareProviderService.cs",
               "ToolTip": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Services\\Interfaces\\ICareProviderService.cs",
               "RelativeToolTip": "Services\\Interfaces\\ICareProviderService.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAYAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-23T15:12:22.771Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "CareProviderAPI.csproj",
-              "DocumentMoniker": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\CareProviderAPI.csproj",
-              "RelativeDocumentMoniker": "CareProviderAPI.csproj",
-              "ToolTip": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\CareProviderAPI.csproj",
-              "RelativeToolTip": "CareProviderAPI.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-01T11:15:36.456Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 13,
               "Title": "IAuthService.cs",
               "DocumentMoniker": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Services\\Interfaces\\IAuthService.cs",
               "RelativeDocumentMoniker": "Services\\Interfaces\\IAuthService.cs",
@@ -457,139 +368,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "ExperienceRepository.cs",
-              "DocumentMoniker": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\Repositories\\Implementations\\ExperienceRepository.cs",
-              "RelativeDocumentMoniker": "Data\\Repositories\\Implementations\\ExperienceRepository.cs",
-              "ToolTip": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\Repositories\\Implementations\\ExperienceRepository.cs",
-              "RelativeToolTip": "Data\\Repositories\\Implementations\\ExperienceRepository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T14:59:29.669Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "IExperienceRepository.cs",
-              "DocumentMoniker": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\Repositories\\Interfaces\\IExperienceRepository.cs",
-              "RelativeDocumentMoniker": "Data\\Repositories\\Interfaces\\IExperienceRepository.cs",
-              "ToolTip": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\Repositories\\Interfaces\\IExperienceRepository.cs",
-              "RelativeToolTip": "Data\\Repositories\\Interfaces\\IExperienceRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T14:55:30.639Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "DepartmentRepository.cs",
-              "DocumentMoniker": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\Repositories\\Implementations\\DepartmentRepository.cs",
-              "RelativeDocumentMoniker": "Data\\Repositories\\Implementations\\DepartmentRepository.cs",
-              "ToolTip": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\Repositories\\Implementations\\DepartmentRepository.cs",
-              "RelativeToolTip": "Data\\Repositories\\Implementations\\DepartmentRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T14:42:19.931Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "IDepartmentRepository.cs",
-              "DocumentMoniker": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\Repositories\\Interfaces\\IDepartmentRepository.cs",
-              "RelativeDocumentMoniker": "Data\\Repositories\\Interfaces\\IDepartmentRepository.cs",
-              "ToolTip": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\Repositories\\Interfaces\\IDepartmentRepository.cs",
-              "RelativeToolTip": "Data\\Repositories\\Interfaces\\IDepartmentRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T14:41:28.707Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "CareProviderRepository.cs",
-              "DocumentMoniker": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\Repositories\\Implementations\\CareProviderRepository.cs",
-              "RelativeDocumentMoniker": "Data\\Repositories\\Implementations\\CareProviderRepository.cs",
-              "ToolTip": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\Repositories\\Implementations\\CareProviderRepository.cs",
-              "RelativeToolTip": "Data\\Repositories\\Implementations\\CareProviderRepository.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAgwAgAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T14:18:10.773Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "AchievementRepository.cs",
-              "DocumentMoniker": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\Repositories\\Implementations\\AchievementRepository.cs",
-              "RelativeDocumentMoniker": "Data\\Repositories\\Implementations\\AchievementRepository.cs",
-              "ToolTip": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\Repositories\\Implementations\\AchievementRepository.cs",
-              "RelativeToolTip": "Data\\Repositories\\Implementations\\AchievementRepository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T14:52:29.817Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "ICareProviderRepository.cs",
-              "DocumentMoniker": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\Repositories\\Interfaces\\ICareProviderRepository.cs",
-              "RelativeDocumentMoniker": "Data\\Repositories\\Interfaces\\ICareProviderRepository.cs",
-              "ToolTip": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\Repositories\\Interfaces\\ICareProviderRepository.cs",
-              "RelativeToolTip": "Data\\Repositories\\Interfaces\\ICareProviderRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T14:08:19.64Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "IAchievementRepository.cs",
-              "DocumentMoniker": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\Repositories\\Interfaces\\IAchievementRepository.cs",
-              "RelativeDocumentMoniker": "Data\\Repositories\\Interfaces\\IAchievementRepository.cs",
-              "ToolTip": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\Repositories\\Interfaces\\IAchievementRepository.cs",
-              "RelativeToolTip": "Data\\Repositories\\Interfaces\\IAchievementRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T14:49:40.342Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T10:18:22.259Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "AchievementService.cs",
-              "DocumentMoniker": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Services\\Implementations\\AchievementService.cs",
-              "RelativeDocumentMoniker": "Services\\Implementations\\AchievementService.cs",
-              "ToolTip": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Services\\Implementations\\AchievementService.cs",
-              "RelativeToolTip": "Services\\Implementations\\AchievementService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T15:45:54.526Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Data\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\Models\\User.cs",
-              "RelativeToolTip": "Data\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T09:56:35.092Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 14,
               "Title": "IAchievementService.cs",
               "DocumentMoniker": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Services\\Interfaces\\IAchievementService.cs",
               "RelativeDocumentMoniker": "Services\\Interfaces\\IAchievementService.cs",
@@ -601,19 +380,91 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "ExperienceDto.cs",
-              "DocumentMoniker": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\DTOs\\ExperienceDTOs\\ExperienceDto.cs",
-              "RelativeDocumentMoniker": "Data\\DTOs\\ExperienceDTOs\\ExperienceDto.cs",
-              "ToolTip": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\DTOs\\ExperienceDTOs\\ExperienceDto.cs",
-              "RelativeToolTip": "Data\\DTOs\\ExperienceDTOs\\ExperienceDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "DocumentIndex": 15,
+              "Title": "ExperienceService.cs",
+              "DocumentMoniker": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Services\\Implementations\\ExperienceService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\ExperienceService.cs",
+              "ToolTip": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Services\\Implementations\\ExperienceService.cs",
+              "RelativeToolTip": "Services\\Implementations\\ExperienceService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowAkAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T13:03:55.965Z"
+              "WhenOpened": "2025-03-23T15:48:14.001Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 16,
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Services\\Implementations\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\DepartmentService.cs",
+              "ToolTip": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Services\\Implementations\\DepartmentService.cs",
+              "RelativeToolTip": "Services\\Implementations\\DepartmentService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T15:38:39.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CareProviderService.cs",
+              "DocumentMoniker": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Services\\Implementations\\CareProviderService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\CareProviderService.cs",
+              "ToolTip": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Services\\Implementations\\CareProviderService.cs",
+              "RelativeToolTip": "Services\\Implementations\\CareProviderService.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAmwBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T15:25:43.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Services\\Implementations\\AuthService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\AuthService.cs",
+              "ToolTip": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Services\\Implementations\\AuthService.cs",
+              "RelativeToolTip": "Services\\Implementations\\AuthService.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAwwAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T10:07:56.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\Repositories\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\Repositories\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T10:00:38.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\Repositories\\Implementations\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\Implementations\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\Repositories\\Implementations\\UserRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\Implementations\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T10:00:09.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\Models\\User.cs",
+              "RelativeToolTip": "Data\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T09:56:35.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "Experience.cs",
               "DocumentMoniker": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\Models\\Experience.cs",
               "RelativeDocumentMoniker": "Data\\Models\\Experience.cs",
@@ -625,19 +476,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "AchievementDto.cs",
-              "DocumentMoniker": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\DTOs\\AchievementDTOs\\AchievementDto.cs",
-              "RelativeDocumentMoniker": "Data\\DTOs\\AchievementDTOs\\AchievementDto.cs",
-              "ToolTip": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\DTOs\\AchievementDTOs\\AchievementDto.cs",
-              "RelativeToolTip": "Data\\DTOs\\AchievementDTOs\\AchievementDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T13:02:36.803Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 23,
               "Title": "Achievement.cs",
               "DocumentMoniker": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\Models\\Achievement.cs",
               "RelativeDocumentMoniker": "Data\\Models\\Achievement.cs",
@@ -649,75 +488,243 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "CreateCareProviderDto.cs",
-              "DocumentMoniker": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\DTOs\\CareProviderDTOs\\CreateCareProviderDto.cs",
-              "RelativeDocumentMoniker": "Data\\DTOs\\CareProviderDTOs\\CreateCareProviderDto.cs",
-              "ToolTip": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\DTOs\\CareProviderDTOs\\CreateCareProviderDto.cs",
-              "RelativeToolTip": "Data\\DTOs\\CareProviderDTOs\\CreateCareProviderDto.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAkwAgAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T12:57:16.506Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "CareProviderDto.cs",
-              "DocumentMoniker": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\DTOs\\CareProviderDTOs\\CareProviderDto.cs",
-              "RelativeDocumentMoniker": "Data\\DTOs\\CareProviderDTOs\\CareProviderDto.cs",
-              "ToolTip": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\DTOs\\CareProviderDTOs\\CareProviderDto.cs",
-              "RelativeToolTip": "Data\\DTOs\\CareProviderDTOs\\CareProviderDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T15:14:59.745Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "UpdateCareProviderDto.cs",
-              "DocumentMoniker": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\DTOs\\CareProviderDTOs\\UpdateCareProviderDto.cs",
-              "RelativeDocumentMoniker": "Data\\DTOs\\CareProviderDTOs\\UpdateCareProviderDto.cs",
-              "ToolTip": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\DTOs\\CareProviderDTOs\\UpdateCareProviderDto.cs",
-              "RelativeToolTip": "Data\\DTOs\\CareProviderDTOs\\UpdateCareProviderDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T12:59:57.692Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "DepartmentDto.cs",
-              "DocumentMoniker": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\DTOs\\DepartmentDTOs\\DepartmentDto.cs",
-              "RelativeDocumentMoniker": "Data\\DTOs\\DepartmentDTOs\\DepartmentDto.cs",
-              "ToolTip": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\DTOs\\DepartmentDTOs\\DepartmentDto.cs",
-              "RelativeToolTip": "Data\\DTOs\\DepartmentDTOs\\DepartmentDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T13:01:42.026Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "Department.cs",
-              "DocumentMoniker": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\Models\\Department.cs",
-              "RelativeDocumentMoniker": "Data\\Models\\Department.cs",
-              "ToolTip": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\Models\\Department.cs",
-              "RelativeToolTip": "Data\\Models\\Department.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T14:17:04.957Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 24,
               "Title": "CareProvider.cs",
               "DocumentMoniker": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\Models\\CareProvider.cs",
               "RelativeDocumentMoniker": "Data\\Models\\CareProvider.cs",
               "ToolTip": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\Models\\CareProvider.cs",
               "RelativeToolTip": "Data\\Models\\CareProvider.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAcAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-23T12:33:39.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T10:18:22.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DepartmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\Repositories\\Implementations\\DepartmentRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\Implementations\\DepartmentRepository.cs",
+              "ToolTip": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\Repositories\\Implementations\\DepartmentRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\Implementations\\DepartmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T14:42:19.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AchievementService.cs",
+              "DocumentMoniker": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Services\\Implementations\\AchievementService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\AchievementService.cs",
+              "ToolTip": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Services\\Implementations\\AchievementService.cs",
+              "RelativeToolTip": "Services\\Implementations\\AchievementService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T15:45:54.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CareProviderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\Repositories\\Implementations\\CareProviderRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\Implementations\\CareProviderRepository.cs",
+              "ToolTip": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\Repositories\\Implementations\\CareProviderRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\Implementations\\CareProviderRepository.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAADwvzsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T14:18:10.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IDepartmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\Repositories\\Interfaces\\IDepartmentRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\Interfaces\\IDepartmentRepository.cs",
+              "ToolTip": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\Repositories\\Interfaces\\IDepartmentRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\Interfaces\\IDepartmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T14:41:28.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IExperienceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\Repositories\\Interfaces\\IExperienceRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\Interfaces\\IExperienceRepository.cs",
+              "ToolTip": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\Repositories\\Interfaces\\IExperienceRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\Interfaces\\IExperienceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T14:55:30.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IAchievementRepository.cs",
+              "DocumentMoniker": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\Repositories\\Interfaces\\IAchievementRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\Interfaces\\IAchievementRepository.cs",
+              "ToolTip": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\Repositories\\Interfaces\\IAchievementRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\Interfaces\\IAchievementRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T14:49:40.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ExperienceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\Repositories\\Implementations\\ExperienceRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\Implementations\\ExperienceRepository.cs",
+              "ToolTip": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\Repositories\\Implementations\\ExperienceRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\Implementations\\ExperienceRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T14:59:29.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AchievementRepository.cs",
+              "DocumentMoniker": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\Repositories\\Implementations\\AchievementRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\Implementations\\AchievementRepository.cs",
+              "ToolTip": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\Repositories\\Implementations\\AchievementRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\Implementations\\AchievementRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T14:52:29.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ICareProviderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\Repositories\\Interfaces\\ICareProviderRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\Interfaces\\ICareProviderRepository.cs",
+              "ToolTip": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\Repositories\\Interfaces\\ICareProviderRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\Interfaces\\ICareProviderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T14:08:19.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\Models\\Department.cs",
+              "RelativeToolTip": "Data\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T14:17:04.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CareproviderContext.cs",
+              "DocumentMoniker": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\Context\\CareproviderContext.cs",
+              "RelativeDocumentMoniker": "Data\\Context\\CareproviderContext.cs",
+              "ToolTip": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Data\\Context\\CareproviderContext.cs",
+              "RelativeToolTip": "Data\\Context\\CareproviderContext.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAYwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T12:35:46.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ExperienceController.cs",
+              "DocumentMoniker": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Controllers\\ExperienceController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ExperienceController.cs",
+              "ToolTip": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Controllers\\ExperienceController.cs",
+              "RelativeToolTip": "Controllers\\ExperienceController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T18:43:48.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAA9wDAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T16:37:07.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CareProviderController.cs",
+              "DocumentMoniker": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Controllers\\CareProviderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CareProviderController.cs",
+              "ToolTip": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Controllers\\CareProviderController.cs",
+              "RelativeToolTip": "Controllers\\CareProviderController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAmwAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T15:56:15.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AchievementController.cs",
+              "DocumentMoniker": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Controllers\\AchievementController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AchievementController.cs",
+              "ToolTip": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Controllers\\AchievementController.cs",
+              "RelativeToolTip": "Controllers\\AchievementController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T18:17:37.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T12:37:10.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "MappingProfile.cs",
+              "ToolTip": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\MappingProfile.cs",
+              "RelativeToolTip": "MappingProfile.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T16:17:40.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "CareProviderAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\CareProviderAPI.csproj",
+              "RelativeDocumentMoniker": "CareProviderAPI.csproj",
+              "ToolTip": "C:\\Users\\RosanSpikewell\\Desktop\\Rosan\\.Net\\Rest API\\WEEK3_CareproviderAPI\\CareProviderAPI\\CareProviderAPI.csproj",
+              "RelativeToolTip": "CareProviderAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-01T11:15:36.456Z"
             }
           ]
         },

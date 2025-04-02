@@ -604,6 +604,11 @@
   "components": {
     "schemas": {
       "AchievementDto": {
+        "required": [
+          "achievementDate",
+          "careProviderId",
+          "description"
+        ],
         "type": "object",
         "properties": {
           "careProviderId": {
@@ -611,13 +616,13 @@
             "format": "uuid"
           },
           "description": {
-            "type": "string",
-            "nullable": true
+            "maxLength": 500,
+            "minLength": 1,
+            "type": "string"
           },
           "achievementDate": {
             "type": "string",
-            "format": "date",
-            "nullable": true
+            "format": "date"
           }
         },
         "additionalProperties": false
@@ -668,21 +673,31 @@
         "additionalProperties": false
       },
       "CreateCareProviderDto": {
+        "required": [
+          "contactInfo",
+          "name"
+        ],
         "type": "object",
         "properties": {
           "name": {
-            "type": "string",
-            "nullable": true
+            "maxLength": 100,
+            "minLength": 0,
+            "type": "string"
           },
           "contactInfo": {
+            "minLength": 1,
             "type": "string",
-            "nullable": true
+            "format": "email"
           },
           "departmentID": {
+            "maximum": 2147483647,
+            "minimum": 1,
             "type": "integer",
             "format": "int32"
           },
           "yearsOfExperience": {
+            "maximum": 50,
+            "minimum": 0,
             "type": "integer",
             "format": "int32"
           }
@@ -690,16 +705,25 @@
         "additionalProperties": false
       },
       "DepartmentDto": {
+        "required": [
+          "name"
+        ],
         "type": "object",
         "properties": {
           "name": {
-            "type": "string",
-            "nullable": true
+            "maxLength": 100,
+            "minLength": 2,
+            "type": "string"
           }
         },
         "additionalProperties": false
       },
       "ExperienceDto": {
+        "required": [
+          "careProviderId",
+          "hospitalName",
+          "role"
+        ],
         "type": "object",
         "properties": {
           "careProviderId": {
@@ -707,12 +731,14 @@
             "format": "uuid"
           },
           "hospitalName": {
-            "type": "string",
-            "nullable": true
+            "maxLength": 100,
+            "minLength": 0,
+            "type": "string"
           },
           "role": {
-            "type": "string",
-            "nullable": true
+            "maxLength": 50,
+            "minLength": 0,
+            "type": "string"
           },
           "startDate": {
             "type": "string",
@@ -728,53 +754,76 @@
         "additionalProperties": false
       },
       "LoginDTO": {
+        "required": [
+          "email",
+          "password"
+        ],
         "type": "object",
         "properties": {
           "email": {
-            "type": "string",
-            "nullable": true
+            "minLength": 1,
+            "type": "string"
           },
           "password": {
-            "type": "string",
-            "nullable": true
+            "minLength": 1,
+            "type": "string"
           }
         },
         "additionalProperties": false
       },
       "RegisterDTO": {
+        "required": [
+          "email",
+          "name",
+          "password"
+        ],
         "type": "object",
         "properties": {
           "name": {
-            "type": "string",
-            "nullable": true
+            "maxLength": 100,
+            "minLength": 0,
+            "type": "string"
           },
           "email": {
+            "minLength": 1,
             "type": "string",
-            "nullable": true
+            "format": "email"
           },
           "password": {
-            "type": "string",
-            "nullable": true
+            "minLength": 1,
+            "type": "string"
           }
         },
         "additionalProperties": false
       },
       "UpdateCareProviderDto": {
+        "required": [
+          "contactInfo",
+          "departmentID",
+          "name",
+          "yearsOfExperience"
+        ],
         "type": "object",
         "properties": {
           "name": {
-            "type": "string",
-            "nullable": true
+            "maxLength": 100,
+            "minLength": 0,
+            "type": "string"
           },
           "contactInfo": {
+            "minLength": 1,
             "type": "string",
-            "nullable": true
+            "format": "email"
           },
           "departmentID": {
+            "maximum": 2147483647,
+            "minimum": 1,
             "type": "integer",
             "format": "int32"
           },
           "yearsOfExperience": {
+            "maximum": 100,
+            "minimum": 0,
             "type": "integer",
             "format": "int32"
           },
